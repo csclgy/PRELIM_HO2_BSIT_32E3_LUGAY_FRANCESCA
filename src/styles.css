@@ -1,0 +1,92 @@
+.App {
+}
+
+#MainHeader {
+  background-color: #4a6f61;
+  color: rgb(221, 194, 124);
+}
+
+#p1 {
+  color: lightgray;
+}
+
+/* for section 1 & 2 */
+#Highlight1 {
+  color: rgb(221, 194, 124);
+}
+
+#Highlight2 {
+  color: #4a6f61;
+}
+
+/* for section 3 */
+#contactHeader {
+  text-align: center;
+  color: rgb(221, 194, 124);
+}
+
+#submitBtn {
+  background-color: #4a6f61;
+}
+
+/* for footer */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#footerText {
+  color: #ccc;
+}
+
+#footerAlign {
+  text-align: center;
+}
+
+/* for images */
+#Resize {
+  width: 100%;
+}
+
+body {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 200%;
+}
+
+section {
+  padding: 50px;
+  height: 100vh; /* Just for demonstration */
+  border: 1px none #ccc;
+}
+
+#section1 {
+  height: 90%;
+}
+
+#section2 {
+  height: 140%;
+}
+
+#section3 {
+  height: 120vh;
+}
+
+#hobbiesBtn {
+  background-color: #4a6f61;
+  border: #4a6f61;
+}
+
+.footer {
+  position: fixed;
+  padding: 1%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: rgb(189, 199, 180); */
+  background-color: rgb(89, 97, 84);
+  color: lightgray;
+  text-align: center;
+}
