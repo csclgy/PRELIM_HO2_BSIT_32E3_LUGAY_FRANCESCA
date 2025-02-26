@@ -74,19 +74,11 @@ section {
   height: 120vh;
 }
 
-#hobbiesBtn {
+#AddBtn {
   background-color: #4a6f61;
   border: #4a6f61;
 }
 
-.footer {
-  position: fixed;
-  padding: 1%;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  /* background-color: rgb(189, 199, 180); */
-  background-color: rgb(89, 97, 84);
-  color: lightgray;
-  text-align: center;
+#AlignButton {
+  margin-left: 90%;
 }
